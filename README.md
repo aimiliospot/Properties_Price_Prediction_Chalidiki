@@ -1,6 +1,6 @@
 # Chalkidiki properties price prediciton
  
-The aim of this project for the Machine Learning course at NTUA is to classify whether a property is a good deal or not based on its price and several other features. In order to achieve this classification, a regression model was fitted in the available data and based on its predictions the properties were classified. To better understand the vailable data, several vizualizations were created in Tableau (the workbook is also available). 
+The goal of this project for the Machine Learning course at NTUA is to classify whether a property represents a good deal based on its price and various other features. To accomplish this, a regression model was trained on the available dataset, and the predicted values were used to categorize the properties. To gain deeper insights into the data, several visualizations were created using Tableau (the workbook is provided as well).
 
 ## Installation
 > I assume that Python and Jupyter are already installed :grinning:
